@@ -1,8 +1,8 @@
 #include <conio.h>
 #include <stdio.h>
 #include <iostream>
-#define N 4 (filas)
-#define M 5 (columnas)
+#define N 4 
+#define M 5 
 using namespace std;
 
 int main(){
