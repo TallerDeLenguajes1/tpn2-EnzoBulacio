@@ -19,6 +19,8 @@ for(i = 0;i<N; i++){
 	for(f = 0;f<M; f++){
 		printf("%4d",*(punt + i * 5 +f));
 		}
+		printf("\n");
+		
 	printf("\n");
 	}
 	getchar();
